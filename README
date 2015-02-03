@@ -1,0 +1,10 @@
+These are the most recent versions of the Nimbus family of fonts from URW++
+released under the GPL.
+
+	Nimbus Roman No9 L
+	Nimbus Sans L
+	Nimbus Mono
+
+They are fully metric compatible with Times, Helvetica and Courier and support
+the full WGL4 character set (and most of W1G, missing only the interrobang and
+some subscript and superscript symbols).
